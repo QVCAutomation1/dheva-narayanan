@@ -8,7 +8,7 @@ public class logginpage {
 	public <WebrDriver> void browserlaunch() {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\taant\\Downloads\\chromedriver.exe");
 		WebrDriver driver=new ChromeDriver();
-		driver.get("https://www.qvc.com/");
+		driver.get("https://www.facebook/");
 	}
 	
 	
